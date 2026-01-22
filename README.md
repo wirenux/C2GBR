@@ -19,6 +19,8 @@ This is useful for reverse engineering, modifying exported tile data, or regener
 Simply run:
 
 ```bash
+git clone https://github.com/wirenux/C2GBR.git
+cd C2GBR
 make
 ```
 
