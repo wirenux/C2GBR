@@ -73,7 +73,7 @@ Tile data - 64 bytes per tile in unpacked format
 
 ### License
 
-[UNLICENSE](./UNLICENSE)
+[MIT](./LICENSE)
 
 ### Credits
 
